@@ -1,0 +1,49 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+*.translation
+
+# Environment files (secrets, API keys, etc.)
+.env
+.env.*
+!.env.example
+
+# Import cache
+.import/
+*.import
+
+# Export presets
+export_presets.cfg
+
+# Mono-specific ignores (C# projects)
+.mono/
+data_*/
+mono_crash.*.json
+
+# System/OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor-specific
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Build/Export outputs
+*.zip
+*.apk
+*.exe
+*.pck
+builds/
+exports/
+
+# Assets (artwork, sprites, audio, etc.)
+assets/

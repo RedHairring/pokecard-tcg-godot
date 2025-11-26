@@ -1,0 +1,43 @@
+//START HERE
+
+a̶d̶d̶ h̶a̶n̶d̶ c̶a̶r̶d̶s̶
+  a̶n̶d̶ d̶e̶c̶k̶ a̶n̶d̶ d̶i̶s̶c̶a̶r̶d̶ p̶i̶l̶e̶
+  Make new test state with cards in deck
+
+AttackInterface
+
+ClickManager
+  When a card is clicked on, just emit a clicked on signal?
+
+EventLog
+
+
+Replicate tilt perspective
+
+Switch card images to load from AWS
+  Might also require having the card images in
+  the exact size we want to display to fix blurry images.
+
+How do we handle the GameContainerResizer thing to make sure
+the game scales correctly?
+
+
+Serious consideration.
+  We make the front end rerender the game board after every event.
+  In react, this is very fast. But is it fast in godot?
+    Do card images reload, etc?
+
+
+
+
+
+
+
+DATA STRUCTURE:
+Add the AttackInterface checks and energy provisions 
+to the localBattleState during syncCardData and send it to the front end
+
+
+
+Remember to install the godot mcp server at somepoint
+ 

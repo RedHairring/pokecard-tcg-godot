@@ -1,0 +1,52 @@
+[gd_scene load_steps=5 format=3 uid="uid://chbb8u83sqwsc"]
+
+[ext_resource type="Script" uid="uid://bwt7vfbtuidrx" path="res://BattleBoard.gd" id="1_bdrjq"]
+[ext_resource type="Texture2D" uid="uid://bti7lmrfwquov" path="res://assets/Background.png" id="2_2qpyp"]
+[ext_resource type="PackedScene" uid="uid://74oy3sn83axs" path="res://Scenes/DropZone.tscn" id="3_8mi12"]
+[ext_resource type="PackedScene" uid="uid://b5k6p5k08hhp4" path="res://Scenes/DraggableCard.tscn" id="4_4ir0o"]
+
+[node name="BattleBoard" type="Node"]
+script = ExtResource("1_bdrjq")
+card_scene = ExtResource("4_4ir0o")
+
+[node name="Background" type="TextureRect" parent="."]
+anchors_preset = -1
+anchor_left = -0.236133
+anchor_top = 0.00130208
+anchor_right = 0.689834
+anchor_bottom = 0.601302
+offset_left = 20.8
+offset_top = -1.0
+offset_right = 430.4
+offset_bottom = 306.2
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(-52, 0)
+mouse_filter = 2
+texture = ExtResource("2_2qpyp")
+expand_mode = 3
+metadata/_edit_use_anchors_ = true
+
+[node name="ActiveDropZone" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(658, 291)
+drop_zone_type = 2
+
+[node name="BenchDropZone0" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(392, 580)
+drop_zone_type = 1
+
+[node name="BenchDropZone1" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(528, 579)
+drop_zone_type = 1
+
+[node name="BenchDropZone2" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(660, 581)
+drop_zone_type = 1
+
+[node name="BenchDropZone3" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(802, 579)
+drop_zone_type = 1
+
+[node name="BenchDropZone4" parent="." instance=ExtResource("3_8mi12")]
+position = Vector2(934, 579)
+drop_zone_type = 1

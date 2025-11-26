@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://74oy3sn83axs"]
+
+[ext_resource type="Script" uid="uid://dseeawe03disj" path="res://Scenes/DropZone.gd" id="1_wb5sp"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_aciqr"]
+
+[node name="DropZone" type="StaticBody2D" groups=["dropable"]]
+script = ExtResource("1_wb5sp")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_aciqr")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+custom_minimum_size = Vector2(100, 140)
+offset_left = -50.0
+offset_top = -70.0
+offset_right = 50.0
+offset_bottom = 70.0
+color = Color(1, 0.0431373, 1, 1)

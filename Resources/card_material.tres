@@ -1,0 +1,10 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://bkobsyo3kkfku"]
+
+[ext_resource type="Shader" uid="uid://dcldnviwu15qc" path="res://Resources/card_rounded_outline.gdshader" id="1"]
+
+[resource]
+shader = ExtResource("1")
+shader_parameter/corner_radius = 45.0
+shader_parameter/border_thickness = 12.0
+shader_parameter/border_color = Color(0, 0, 0, 1)
+shader_parameter/anti_aliasing = true

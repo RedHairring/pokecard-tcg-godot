@@ -1,0 +1,2256 @@
+{
+	"battleId": "NXGFZ9",
+	"created": 1764182941555,
+	"lastUpdated": 1764182941555,
+	"status": "active",
+	"player1": "1277725636055662727",
+	"player2": "1089945453098971297",
+	"state": {
+			"id": "NXGFZ9",
+			"players": {
+					"1277725636055662727": {
+							"playerId": "1277725636055662727",
+							"username": "icosah1",
+							"avatarHash": "",
+							"playerNumber": 1,
+							"hasPlayedEnergy": false,
+							"hasAttacked": false,
+							"mulliganCount": 0,
+							"setupComplete": true
+					},
+					"1089945453098971297": {
+							"playerId": "1089945453098971297",
+							"username": "icosahe",
+							"avatarHash": "a8b7853eaf92acc7134feaefd7f44866",
+							"playerNumber": 2,
+							"hasPlayedEnergy": false,
+							"hasAttacked": false,
+							"mulliganCount": 0,
+							"setupComplete": true
+					}
+			},
+			"cards": [
+					{
+							"id": "ad458705-e68b-4ac5-abf1-c214a0cc1710",
+							"cardStoreData": {
+									"id": "ad458705-e68b-4ac5-abf1-c214a0cc1710",
+									"set": "BS",
+									"name": "Energy Retrieval",
+									"userId": "1277725636055662727",
+									"setNumber": 81
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "hand",
+									"index": 0
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "875683c9-fd89-4b47-89e4-677c956d92e9",
+							"cardStoreData": {
+									"id": "875683c9-fd89-4b47-89e4-677c956d92e9",
+									"set": "BS",
+									"name": "Potion",
+									"userId": "1277725636055662727",
+									"setNumber": 94
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "hand",
+									"index": 1
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "3fe1c1f5-7424-4d42-99ae-8e52b76d022e",
+							"cardStoreData": {
+									"id": "3fe1c1f5-7424-4d42-99ae-8e52b76d022e",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "hand",
+									"index": 2
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "4f1af688-b06a-4575-bd41-6ab8f6bddfdc",
+							"cardStoreData": {
+									"id": "4f1af688-b06a-4575-bd41-6ab8f6bddfdc",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "hand",
+									"index": 3
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "ae89e87e-cf36-4c6d-b68c-f8aab6d0aec8",
+							"cardStoreData": {
+									"id": "ae89e87e-cf36-4c6d-b68c-f8aab6d0aec8",
+									"set": "BS",
+									"name": "Weedle",
+									"userId": "1277725636055662727",
+									"setNumber": 69
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "active"
+							},
+							"turnPlayed": 1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "5975551f-e452-455b-a689-91c19699ce6d",
+							"cardStoreData": {
+									"id": "5975551f-e452-455b-a689-91c19699ce6d",
+									"set": "BS",
+									"name": "Charmander",
+									"userId": "1277725636055662727",
+									"setNumber": 46
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "bench",
+									"index": 0
+							},
+							"turnPlayed": 1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "6ebb7fed-0cef-4fd8-a498-a7dcbe0866e5",
+							"cardStoreData": {
+									"id": "6ebb7fed-0cef-4fd8-a498-a7dcbe0866e5",
+									"set": "BS",
+									"name": "Vulpix",
+									"userId": "1277725636055662727",
+									"setNumber": 68
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "bench",
+									"index": 1
+							},
+							"turnPlayed": 1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "34a86c89-0359-4860-8d22-694d93d3d0fe",
+							"cardStoreData": {
+									"id": "34a86c89-0359-4860-8d22-694d93d3d0fe",
+									"set": "BS",
+									"name": "Potion",
+									"userId": "1277725636055662727",
+									"setNumber": 94
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 0
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "9905735b-918a-4cd7-b711-19c20d389839",
+							"cardStoreData": {
+									"id": "9905735b-918a-4cd7-b711-19c20d389839",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 1
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f3d5878f-e7d9-4949-8f15-f1c41395c509",
+							"cardStoreData": {
+									"id": "f3d5878f-e7d9-4949-8f15-f1c41395c509",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 2
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "d213a505-3c95-460a-9856-585699701868",
+							"cardStoreData": {
+									"id": "d213a505-3c95-460a-9856-585699701868",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 3
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "aeb193ed-d16a-4157-b032-d9c4cc8a3cc0",
+							"cardStoreData": {
+									"id": "aeb193ed-d16a-4157-b032-d9c4cc8a3cc0",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 4
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "70821839-2191-46b7-8a55-34810cd6cba2",
+							"cardStoreData": {
+									"id": "70821839-2191-46b7-8a55-34810cd6cba2",
+									"set": "BS",
+									"name": "Vulpix",
+									"userId": "1277725636055662727",
+									"setNumber": 68
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "prize",
+									"index": 5
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "4a7a9b63-7d5a-4953-b6db-153037c1056d",
+							"cardStoreData": {
+									"id": "4a7a9b63-7d5a-4953-b6db-153037c1056d",
+									"set": "BS",
+									"name": "Tangela",
+									"userId": "1277725636055662727",
+									"setNumber": 66
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 0
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "07c0be52-1bb8-4c74-bbfd-ea44de41746b",
+							"cardStoreData": {
+									"id": "07c0be52-1bb8-4c74-bbfd-ea44de41746b",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 1
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "876bb3a2-9841-410a-a625-66d1b29a8eb9",
+							"cardStoreData": {
+									"id": "876bb3a2-9841-410a-a625-66d1b29a8eb9",
+									"set": "BS",
+									"name": "Nidoran M",
+									"userId": "1277725636055662727",
+									"setNumber": 55
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 2
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "a1fa7215-ad3f-4e67-8000-dcdce3a5fb9f",
+							"cardStoreData": {
+									"id": "a1fa7215-ad3f-4e67-8000-dcdce3a5fb9f",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 3
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "8b56a9ff-c9fe-4bd4-822c-f143bcaddcc4",
+							"cardStoreData": {
+									"id": "8b56a9ff-c9fe-4bd4-822c-f143bcaddcc4",
+									"set": "BS",
+									"name": "Weedle",
+									"userId": "1277725636055662727",
+									"setNumber": 69
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 4
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "b42de3d4-5463-4e06-a637-22d470bbfdac",
+							"cardStoreData": {
+									"id": "b42de3d4-5463-4e06-a637-22d470bbfdac",
+									"set": "BS",
+									"name": "Nidoran M",
+									"userId": "1277725636055662727",
+									"setNumber": 55
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 5
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "bc58fdd0-7cf2-4648-ac31-fc925b9e05ea",
+							"cardStoreData": {
+									"id": "bc58fdd0-7cf2-4648-ac31-fc925b9e05ea",
+									"set": "BS",
+									"name": "Charmeleon",
+									"userId": "1277725636055662727",
+									"setNumber": 24
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 6
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "980977c2-3119-40b5-8936-95026f9e8b2f",
+							"cardStoreData": {
+									"id": "980977c2-3119-40b5-8936-95026f9e8b2f",
+									"set": "BS",
+									"name": "Tangela",
+									"userId": "1277725636055662727",
+									"setNumber": 66
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 7
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "6733658a-a367-46c8-b0c2-52bfe4a160a9",
+							"cardStoreData": {
+									"id": "6733658a-a367-46c8-b0c2-52bfe4a160a9",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 8
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b1cb4495-6a71-444f-8736-32fe53d44abb",
+							"cardStoreData": {
+									"id": "b1cb4495-6a71-444f-8736-32fe53d44abb",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 9
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "437dd558-fca6-4f8a-bab0-d4093094fb75",
+							"cardStoreData": {
+									"id": "437dd558-fca6-4f8a-bab0-d4093094fb75",
+									"set": "BS",
+									"name": "Nidoran M",
+									"userId": "1277725636055662727",
+									"setNumber": 55
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 10
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "219ab4b8-d9ea-4055-9a0b-533a41c3f34f",
+							"cardStoreData": {
+									"id": "219ab4b8-d9ea-4055-9a0b-533a41c3f34f",
+									"set": "BS",
+									"name": "Arcanine",
+									"userId": "1277725636055662727",
+									"setNumber": 23
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 11
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "0a7e2ac0-5e1a-4a9a-8118-0406bf62b344",
+							"cardStoreData": {
+									"id": "0a7e2ac0-5e1a-4a9a-8118-0406bf62b344",
+									"set": "BS",
+									"name": "Ninetales",
+									"userId": "1277725636055662727",
+									"setNumber": 12
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 12
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "257809dd-a81b-4dda-9b0f-fa66d9574f1c",
+							"cardStoreData": {
+									"id": "257809dd-a81b-4dda-9b0f-fa66d9574f1c",
+									"set": "BS",
+									"name": "Charmeleon",
+									"userId": "1277725636055662727",
+									"setNumber": 24
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 13
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "b3d4998a-56c6-4b75-bf33-c9f01e37276c",
+							"cardStoreData": {
+									"id": "b3d4998a-56c6-4b75-bf33-c9f01e37276c",
+									"set": "BS",
+									"name": "Switch",
+									"userId": "1277725636055662727",
+									"setNumber": 95
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 14
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "bc9076e6-a9df-43be-82bd-f0174714ecbe",
+							"cardStoreData": {
+									"id": "bc9076e6-a9df-43be-82bd-f0174714ecbe",
+									"set": "BS",
+									"name": "Charmander",
+									"userId": "1277725636055662727",
+									"setNumber": 46
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 15
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "66a10b47-1cf7-4d68-927b-2608a8b5635e",
+							"cardStoreData": {
+									"id": "66a10b47-1cf7-4d68-927b-2608a8b5635e",
+									"set": "BS",
+									"name": "PlusPower",
+									"userId": "1277725636055662727",
+									"setNumber": 84
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 16
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f0ce30e7-0c20-4ed6-8f1c-184eeae950ff",
+							"cardStoreData": {
+									"id": "f0ce30e7-0c20-4ed6-8f1c-184eeae950ff",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 17
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b62b5919-1d0a-4dce-8ad1-bd2bc1024f91",
+							"cardStoreData": {
+									"id": "b62b5919-1d0a-4dce-8ad1-bd2bc1024f91",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 18
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b64c041b-e4db-48d3-9fe5-75b934453296",
+							"cardStoreData": {
+									"id": "b64c041b-e4db-48d3-9fe5-75b934453296",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 19
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "4f410383-d6cd-48c8-9281-8ee49fc1cb68",
+							"cardStoreData": {
+									"id": "4f410383-d6cd-48c8-9281-8ee49fc1cb68",
+									"set": "BS",
+									"name": "Charmander",
+									"userId": "1277725636055662727",
+									"setNumber": 46
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 20
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "69082792-003c-4084-8580-d75d8abc9132",
+							"cardStoreData": {
+									"id": "69082792-003c-4084-8580-d75d8abc9132",
+									"set": "BS",
+									"name": "Nidoran M",
+									"userId": "1277725636055662727",
+									"setNumber": 55
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 21
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "3f1fbfec-38c5-45f1-b92f-586d83104bf4",
+							"cardStoreData": {
+									"id": "3f1fbfec-38c5-45f1-b92f-586d83104bf4",
+									"set": "BS",
+									"name": "Energy Retrieval",
+									"userId": "1277725636055662727",
+									"setNumber": 81
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 22
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "50f0388d-4e28-42ec-b113-9db8413a51e1",
+							"cardStoreData": {
+									"id": "50f0388d-4e28-42ec-b113-9db8413a51e1",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 23
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "1bc331b0-e8f4-4995-8000-00aa4150b845",
+							"cardStoreData": {
+									"id": "1bc331b0-e8f4-4995-8000-00aa4150b845",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 24
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "88b67b63-43c4-426d-a7f3-e066ba8b5337",
+							"cardStoreData": {
+									"id": "88b67b63-43c4-426d-a7f3-e066ba8b5337",
+									"set": "BS",
+									"name": "Gust of Wind",
+									"userId": "1277725636055662727",
+									"setNumber": 93
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 25
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "fefadb58-8b1e-4007-8b3e-9b9ad3278126",
+							"cardStoreData": {
+									"id": "fefadb58-8b1e-4007-8b3e-9b9ad3278126",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 26
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "c107cd4a-96fe-49e7-ada4-e4f83829407f",
+							"cardStoreData": {
+									"id": "c107cd4a-96fe-49e7-ada4-e4f83829407f",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 27
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "5ffbf7a5-7b6b-42b8-88e1-d704570d432f",
+							"cardStoreData": {
+									"id": "5ffbf7a5-7b6b-42b8-88e1-d704570d432f",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 28
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "3c61f850-860f-4f3a-b5da-b1433b92330e",
+							"cardStoreData": {
+									"id": "3c61f850-860f-4f3a-b5da-b1433b92330e",
+									"set": "BS",
+									"name": "Potion",
+									"userId": "1277725636055662727",
+									"setNumber": 94
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 29
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f6decaa9-c5f7-48e4-bb4e-149fdac7f954",
+							"cardStoreData": {
+									"id": "f6decaa9-c5f7-48e4-bb4e-149fdac7f954",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 30
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "e8f20730-a3d4-45a4-bc5e-3b0f4a6871b3",
+							"cardStoreData": {
+									"id": "e8f20730-a3d4-45a4-bc5e-3b0f4a6871b3",
+									"set": "BS",
+									"name": "Energy Removal",
+									"userId": "1277725636055662727",
+									"setNumber": 92
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 31
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "30ef4dcf-4ca5-4a8d-899c-f34df631f13c",
+							"cardStoreData": {
+									"id": "30ef4dcf-4ca5-4a8d-899c-f34df631f13c",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 32
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "cc1f7c85-3225-436e-9435-52da79288e4a",
+							"cardStoreData": {
+									"id": "cc1f7c85-3225-436e-9435-52da79288e4a",
+									"set": "BS",
+									"name": "Weedle",
+									"userId": "1277725636055662727",
+									"setNumber": 69
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 33
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "4417a9d8-4182-4752-9f02-7b856e34ba41",
+							"cardStoreData": {
+									"id": "4417a9d8-4182-4752-9f02-7b856e34ba41",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 34
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "7c5b9065-ca1d-4d06-8d07-f56e59996f6a",
+							"cardStoreData": {
+									"id": "7c5b9065-ca1d-4d06-8d07-f56e59996f6a",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 35
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "349a68b4-799f-4523-ae29-b8cf0f3509b2",
+							"cardStoreData": {
+									"id": "349a68b4-799f-4523-ae29-b8cf0f3509b2",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 36
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "0f69aec8-cab3-4733-8dbc-1b51b46b6d39",
+							"cardStoreData": {
+									"id": "0f69aec8-cab3-4733-8dbc-1b51b46b6d39",
+									"set": "BS",
+									"name": "Lass",
+									"userId": "1277725636055662727",
+									"setNumber": 75
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 37
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b29a5168-928d-42a1-bf3b-39252b6f29b5",
+							"cardStoreData": {
+									"id": "b29a5168-928d-42a1-bf3b-39252b6f29b5",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 38
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f5d9cd8f-d18d-4f5d-963c-18c8b895e58f",
+							"cardStoreData": {
+									"id": "f5d9cd8f-d18d-4f5d-963c-18c8b895e58f",
+									"set": "BS",
+									"name": "Weedle",
+									"userId": "1277725636055662727",
+									"setNumber": 69
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 39
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "02bd8cb1-9830-4d3c-a827-3daf3d39cffe",
+							"cardStoreData": {
+									"id": "02bd8cb1-9830-4d3c-a827-3daf3d39cffe",
+									"set": "BS",
+									"name": "Growlithe",
+									"userId": "1277725636055662727",
+									"setNumber": 28
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 40
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "bb758ca1-f0dd-4b62-8f6e-372809f28133",
+							"cardStoreData": {
+									"id": "bb758ca1-f0dd-4b62-8f6e-372809f28133",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 41
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "e638c2a2-3fe8-4789-963f-d184a674edd5",
+							"cardStoreData": {
+									"id": "e638c2a2-3fe8-4789-963f-d184a674edd5",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 42
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "cff0fa8a-99af-4499-a766-c0a2b5be4228",
+							"cardStoreData": {
+									"id": "cff0fa8a-99af-4499-a766-c0a2b5be4228",
+									"set": "BS",
+									"name": "Fire Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 98
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 43
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "6e3630f6-1b09-4b1f-a2c4-133139ef8f67",
+							"cardStoreData": {
+									"id": "6e3630f6-1b09-4b1f-a2c4-133139ef8f67",
+									"set": "BS",
+									"name": "Growlithe",
+									"userId": "1277725636055662727",
+									"setNumber": 28
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 44
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "1705ad1c-4c34-465c-9698-ef7c92fa676b",
+							"cardStoreData": {
+									"id": "1705ad1c-4c34-465c-9698-ef7c92fa676b",
+									"set": "BS",
+									"name": "Charmander",
+									"userId": "1277725636055662727",
+									"setNumber": 46
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 45
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "4da76fec-e4d6-435b-8c0f-c70447cd10e9",
+							"cardStoreData": {
+									"id": "4da76fec-e4d6-435b-8c0f-c70447cd10e9",
+									"set": "BS",
+									"name": "Grass Energy",
+									"userId": "1277725636055662727",
+									"setNumber": 99
+							},
+							"owner": "1277725636055662727",
+							"location": {
+									"type": "deck",
+									"index": 46
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "a61542f7-292c-42a5-8899-f40c97e0bdaa",
+							"cardStoreData": {
+									"id": "a61542f7-292c-42a5-8899-f40c97e0bdaa",
+									"set": "BS",
+									"name": "Mewtwo",
+									"userId": "1089945453098971297",
+									"setNumber": 10
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "bench",
+									"index": 0
+							},
+							"turnPlayed": 1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "be1232ac-8570-4441-82d8-7f2718335827",
+							"cardStoreData": {
+									"id": "be1232ac-8570-4441-82d8-7f2718335827",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "hand",
+									"index": 1
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "81822b56-cfb1-4e71-981c-9c386b39c5ec",
+							"cardStoreData": {
+									"id": "81822b56-cfb1-4e71-981c-9c386b39c5ec",
+									"set": "BS",
+									"name": "Defender",
+									"userId": "1089945453098971297",
+									"setNumber": 80
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "hand",
+									"index": 2
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "2dd87063-9e52-424b-a3b8-70b356e0d1d3",
+							"cardStoreData": {
+									"id": "2dd87063-9e52-424b-a3b8-70b356e0d1d3",
+									"set": "BS",
+									"name": "Drowzee",
+									"userId": "1089945453098971297",
+									"setNumber": 49
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "active"
+							},
+							"turnPlayed": 1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "e7253101-dc0f-4424-9bd0-1f1e838ae356",
+							"cardStoreData": {
+									"id": "e7253101-dc0f-4424-9bd0-1f1e838ae356",
+									"set": "BS",
+									"name": "Switch",
+									"userId": "1089945453098971297",
+									"setNumber": 95
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "hand",
+									"index": 4
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "0e8d151b-0714-479f-977b-e34210cff1fc",
+							"cardStoreData": {
+									"id": "0e8d151b-0714-479f-977b-e34210cff1fc",
+									"set": "BS",
+									"name": "Computer Search",
+									"userId": "1089945453098971297",
+									"setNumber": 71
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "hand",
+									"index": 5
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "6bff1bc1-949b-4ee7-a2d9-39a6a2463e6e",
+							"cardStoreData": {
+									"id": "6bff1bc1-949b-4ee7-a2d9-39a6a2463e6e",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "hand",
+									"index": 6
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "72b7a1bc-440c-41f6-9b78-e2ba6e32910b",
+							"cardStoreData": {
+									"id": "72b7a1bc-440c-41f6-9b78-e2ba6e32910b",
+									"set": "BS",
+									"name": "Haunter",
+									"userId": "1089945453098971297",
+									"setNumber": 29
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 0
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "0fa51bec-1f9c-4411-a457-d094ef4ee819",
+							"cardStoreData": {
+									"id": "0fa51bec-1f9c-4411-a457-d094ef4ee819",
+									"set": "BS",
+									"name": "Gastly",
+									"userId": "1089945453098971297",
+									"setNumber": 50
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 1
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "4aa32a12-3c55-4ba2-91f5-2f051a35d02d",
+							"cardStoreData": {
+									"id": "4aa32a12-3c55-4ba2-91f5-2f051a35d02d",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 2
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "17374b55-f195-484b-a84b-3f59736a4afa",
+							"cardStoreData": {
+									"id": "17374b55-f195-484b-a84b-3f59736a4afa",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 3
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "3485fffd-3b31-45c9-9365-a6b2a7b51e93",
+							"cardStoreData": {
+									"id": "3485fffd-3b31-45c9-9365-a6b2a7b51e93",
+									"set": "BS",
+									"name": "Drowzee",
+									"userId": "1089945453098971297",
+									"setNumber": 49
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 4
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "10604085-9138-4fde-af0d-cca780b87d49",
+							"cardStoreData": {
+									"id": "10604085-9138-4fde-af0d-cca780b87d49",
+									"set": "BS",
+									"name": "Kadabra",
+									"userId": "1089945453098971297",
+									"setNumber": 32
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "prize",
+									"index": 5
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "f91d4d87-a1bc-44c8-86bd-6ab47607f5e8",
+							"cardStoreData": {
+									"id": "f91d4d87-a1bc-44c8-86bd-6ab47607f5e8",
+									"set": "BS",
+									"name": "Pikachu",
+									"userId": "1089945453098971297",
+									"setNumber": 58
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 0
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "bed3308e-34ee-4168-be63-9048b1ecea7b",
+							"cardStoreData": {
+									"id": "bed3308e-34ee-4168-be63-9048b1ecea7b",
+									"set": "BS",
+									"name": "Pikachu",
+									"userId": "1089945453098971297",
+									"setNumber": 58
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 1
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "27fa3841-d57d-40cb-bc75-9392d9fd59e2",
+							"cardStoreData": {
+									"id": "27fa3841-d57d-40cb-bc75-9392d9fd59e2",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 2
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "bb544128-b612-4ea6-9f87-7524f3a0f7dc",
+							"cardStoreData": {
+									"id": "bb544128-b612-4ea6-9f87-7524f3a0f7dc",
+									"set": "BS",
+									"name": "Pikachu",
+									"userId": "1089945453098971297",
+									"setNumber": 58
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 3
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "7101805c-fdce-4582-a794-ef925a5f143b",
+							"cardStoreData": {
+									"id": "7101805c-fdce-4582-a794-ef925a5f143b",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 4
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "013b9542-b05c-4c18-8ba6-eb150d012801",
+							"cardStoreData": {
+									"id": "013b9542-b05c-4c18-8ba6-eb150d012801",
+									"set": "BS",
+									"name": "Abra",
+									"userId": "1089945453098971297",
+									"setNumber": 43
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 5
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "d47059a8-3737-47f5-9e60-29d3ce166002",
+							"cardStoreData": {
+									"id": "d47059a8-3737-47f5-9e60-29d3ce166002",
+									"set": "BS",
+									"name": "Professor Oak",
+									"userId": "1089945453098971297",
+									"setNumber": 88
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 6
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "eea50ad1-299c-4a54-bb0e-ae1c4e4dffb8",
+							"cardStoreData": {
+									"id": "eea50ad1-299c-4a54-bb0e-ae1c4e4dffb8",
+									"set": "BS",
+									"name": "Gastly",
+									"userId": "1089945453098971297",
+									"setNumber": 50
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 7
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "f1b64e5d-b553-4030-955a-388a9837a60e",
+							"cardStoreData": {
+									"id": "f1b64e5d-b553-4030-955a-388a9837a60e",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 8
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "8eb94b20-877a-4b22-8d41-c586091625c5",
+							"cardStoreData": {
+									"id": "8eb94b20-877a-4b22-8d41-c586091625c5",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 9
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "9440930b-ae0d-4555-b97b-67cc430f2860",
+							"cardStoreData": {
+									"id": "9440930b-ae0d-4555-b97b-67cc430f2860",
+									"set": "BS",
+									"name": "Abra",
+									"userId": "1089945453098971297",
+									"setNumber": 43
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 10
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "c399efd4-08dd-4a76-83e9-b85414d895f6",
+							"cardStoreData": {
+									"id": "c399efd4-08dd-4a76-83e9-b85414d895f6",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 11
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "04c12fbb-c853-4424-b37b-4151c74a1a3b",
+							"cardStoreData": {
+									"id": "04c12fbb-c853-4424-b37b-4151c74a1a3b",
+									"set": "BS",
+									"name": "Potion",
+									"userId": "1089945453098971297",
+									"setNumber": 94
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 12
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "19a0770c-d7e0-40ec-8fd0-f56d1ef3d649",
+							"cardStoreData": {
+									"id": "19a0770c-d7e0-40ec-8fd0-f56d1ef3d649",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 13
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "45430d77-0602-4ca5-91ec-ad9d9fbf38ca",
+							"cardStoreData": {
+									"id": "45430d77-0602-4ca5-91ec-ad9d9fbf38ca",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 14
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "0db9dc05-93b5-4a5e-a576-a53616df902a",
+							"cardStoreData": {
+									"id": "0db9dc05-93b5-4a5e-a576-a53616df902a",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 15
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "61ba6dc8-4a1c-466c-844e-fdaa60f7180d",
+							"cardStoreData": {
+									"id": "61ba6dc8-4a1c-466c-844e-fdaa60f7180d",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 16
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "9a306079-e0f1-4fc0-bfc4-e3cff98fd73c",
+							"cardStoreData": {
+									"id": "9a306079-e0f1-4fc0-bfc4-e3cff98fd73c",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 17
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "594eb630-2d14-4d42-ae0e-90e32034f145",
+							"cardStoreData": {
+									"id": "594eb630-2d14-4d42-ae0e-90e32034f145",
+									"set": "BS",
+									"name": "Super Potion",
+									"userId": "1089945453098971297",
+									"setNumber": 90
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 18
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f6bb71fb-95b4-4e3c-9618-dc81838a2db8",
+							"cardStoreData": {
+									"id": "f6bb71fb-95b4-4e3c-9618-dc81838a2db8",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 19
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "20562d29-367e-4b31-99e2-8dd185fd25ff",
+							"cardStoreData": {
+									"id": "20562d29-367e-4b31-99e2-8dd185fd25ff",
+									"set": "BS",
+									"name": "Bill",
+									"userId": "1089945453098971297",
+									"setNumber": 91
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 20
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "cde885fd-b60d-4a99-b0a0-f447ecaf1da3",
+							"cardStoreData": {
+									"id": "cde885fd-b60d-4a99-b0a0-f447ecaf1da3",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 21
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "afe10ad0-d602-4040-a987-f10d4e54cd94",
+							"cardStoreData": {
+									"id": "afe10ad0-d602-4040-a987-f10d4e54cd94",
+									"set": "BS",
+									"name": "Bill",
+									"userId": "1089945453098971297",
+									"setNumber": 91
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 22
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b053134a-c466-456d-a527-39ae70210238",
+							"cardStoreData": {
+									"id": "b053134a-c466-456d-a527-39ae70210238",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 23
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f9bb4173-efff-4830-af37-e680f7105841",
+							"cardStoreData": {
+									"id": "f9bb4173-efff-4830-af37-e680f7105841",
+									"set": "BS",
+									"name": "Abra",
+									"userId": "1089945453098971297",
+									"setNumber": 43
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 24
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "66049f07-233d-44a4-b903-44560d4956a2",
+							"cardStoreData": {
+									"id": "66049f07-233d-44a4-b903-44560d4956a2",
+									"set": "BS",
+									"name": "Jynx",
+									"userId": "1089945453098971297",
+									"setNumber": 31
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 25
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "169fc7f5-31f7-4acb-b0d5-47d2fc01644d",
+							"cardStoreData": {
+									"id": "169fc7f5-31f7-4acb-b0d5-47d2fc01644d",
+									"set": "BS",
+									"name": "Magnemite",
+									"userId": "1089945453098971297",
+									"setNumber": 53
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 26
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "36079527-95aa-469c-92f2-6b2445e1f9c8",
+							"cardStoreData": {
+									"id": "36079527-95aa-469c-92f2-6b2445e1f9c8",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 27
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "0f878b2e-8520-4d8f-ba64-4950835bb715",
+							"cardStoreData": {
+									"id": "0f878b2e-8520-4d8f-ba64-4950835bb715",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 28
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "d6b281df-0065-4374-96bb-6ef2f171cda9",
+							"cardStoreData": {
+									"id": "d6b281df-0065-4374-96bb-6ef2f171cda9",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 29
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "3f4c301b-4462-422c-9498-781cf7aea02a",
+							"cardStoreData": {
+									"id": "3f4c301b-4462-422c-9498-781cf7aea02a",
+									"set": "BS",
+									"name": "Gust of Wind",
+									"userId": "1089945453098971297",
+									"setNumber": 93
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 30
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "b1eb0b0c-5acf-4c64-bd26-712d600725ca",
+							"cardStoreData": {
+									"id": "b1eb0b0c-5acf-4c64-bd26-712d600725ca",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 31
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "57079635-4b3c-4a91-986b-d46fd5a93b7f",
+							"cardStoreData": {
+									"id": "57079635-4b3c-4a91-986b-d46fd5a93b7f",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 32
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "cbd8b85e-6588-492d-b122-a069cdf92de9",
+							"cardStoreData": {
+									"id": "cbd8b85e-6588-492d-b122-a069cdf92de9",
+									"set": "BS",
+									"name": "Pikachu",
+									"userId": "1089945453098971297",
+									"setNumber": 58
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 33
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "7c8fb8ba-7e23-4e3f-8e4c-4d3aaf0d05c8",
+							"cardStoreData": {
+									"id": "7c8fb8ba-7e23-4e3f-8e4c-4d3aaf0d05c8",
+									"set": "BS",
+									"name": "Jynx",
+									"userId": "1089945453098971297",
+									"setNumber": 31
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 34
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "f97ec954-57fc-4aef-846f-74bc2b20a503",
+							"cardStoreData": {
+									"id": "f97ec954-57fc-4aef-846f-74bc2b20a503",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 35
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "47c03e1e-5a7c-4b1a-8ebf-ad7808079c99",
+							"cardStoreData": {
+									"id": "47c03e1e-5a7c-4b1a-8ebf-ad7808079c99",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 36
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "1005c55d-9140-4d05-a342-33ef2b814da2",
+							"cardStoreData": {
+									"id": "1005c55d-9140-4d05-a342-33ef2b814da2",
+									"set": "BS",
+									"name": "Magnemite",
+									"userId": "1089945453098971297",
+									"setNumber": 53
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 37
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "2925bbce-b933-4081-b87d-c1669e83f9b8",
+							"cardStoreData": {
+									"id": "2925bbce-b933-4081-b87d-c1669e83f9b8",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 38
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "481bac1b-89b5-497c-8d41-bfa6ce60c64c",
+							"cardStoreData": {
+									"id": "481bac1b-89b5-497c-8d41-bfa6ce60c64c",
+									"set": "BS",
+									"name": "Gust of Wind",
+									"userId": "1089945453098971297",
+									"setNumber": 93
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 39
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "48fe2f62-5879-411d-8d1a-7ee466bb47c0",
+							"cardStoreData": {
+									"id": "48fe2f62-5879-411d-8d1a-7ee466bb47c0",
+									"set": "BS",
+									"name": "Haunter",
+									"userId": "1089945453098971297",
+									"setNumber": 29
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 40
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "8a8d4e0d-d38e-4c4f-84ac-03a0ab674b43",
+							"cardStoreData": {
+									"id": "8a8d4e0d-d38e-4c4f-84ac-03a0ab674b43",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 41
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "2f7cc222-8fa8-4605-916d-8ddae96cba9a",
+							"cardStoreData": {
+									"id": "2f7cc222-8fa8-4605-916d-8ddae96cba9a",
+									"set": "BS",
+									"name": "Gastly",
+									"userId": "1089945453098971297",
+									"setNumber": 50
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 42
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "777bcd90-46a1-40eb-a81c-47a3b8c92713",
+							"cardStoreData": {
+									"id": "777bcd90-46a1-40eb-a81c-47a3b8c92713",
+									"set": "BS",
+									"name": "Lightning Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 100
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 43
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "3f64f656-6f96-4e0f-9ce9-8773b009d0f4",
+							"cardStoreData": {
+									"id": "3f64f656-6f96-4e0f-9ce9-8773b009d0f4",
+									"set": "BS",
+									"name": "Magnemite",
+									"userId": "1089945453098971297",
+									"setNumber": 53
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 44
+							},
+							"turnPlayed": -1,
+							"damage": 0,
+							"specialConditions": [],
+							"effects": [],
+							"miscData": {},
+							"attachedEnergy": [],
+							"attachedTrainers": []
+					},
+					{
+							"id": "d830304e-deac-40c6-a772-735f52d0c0c8",
+							"cardStoreData": {
+									"id": "d830304e-deac-40c6-a772-735f52d0c0c8",
+									"set": "BS",
+									"name": "Switch",
+									"userId": "1089945453098971297",
+									"setNumber": 95
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 45
+							},
+							"turnPlayed": -1
+					},
+					{
+							"id": "f3067075-3d7e-4aca-b1d6-23a79f8110fc",
+							"cardStoreData": {
+									"id": "f3067075-3d7e-4aca-b1d6-23a79f8110fc",
+									"set": "BS",
+									"name": "Psychic Energy",
+									"userId": "1089945453098971297",
+									"setNumber": 101
+							},
+							"owner": "1089945453098971297",
+							"location": {
+									"type": "deck",
+									"index": 46
+							},
+							"turnPlayed": -1
+					}
+			],
+			"turn": {
+					"playerId": "1277725636055662727",
+					"turnNumber": 1,
+					"phase": "main",
+					"energyPlayed": false,
+					"supporterPlayed": false,
+					"retreatUsed": false,
+					"abilitiesUsedThisTurn": []
+			},
+			"timerHistory": {
+					"1277725636055662727": {
+							"lastTurnTimedOut": false,
+							"currentTimerMode": "3min"
+					},
+					"1089945453098971297": {
+							"lastTurnTimedOut": false,
+							"currentTimerMode": "3min"
+					}
+			},
+			"eventLog": [
+					{
+							"type": "coinFlip",
+							"id": "coinflip-1764182917203",
+							"activeTurnPlayerId": "1277725636055662727",
+							"turn": 0,
+							"results": [
+									true
+							],
+							"text": "icosah1 won the coin flip (Heads) and will choose who goes first",
+							"displayStyle": "standalone",
+							"requiresAnimation": false
+					},
+					{
+							"type": "text",
+							"id": "first-player-chosen-1764182923153",
+							"activeTurnPlayerId": "1277725636055662727",
+							"turn": 0,
+							"text": "icosah1 goes first!",
+							"displayStyle": "standalone",
+							"requiresAnimation": false
+					}
+			],
+			"createdAt": "2025-11-26T18:48:37.202Z",
+			"updatedAt": "2025-11-26T18:49:01.555Z"
+	},
+	"channelId": "1396580249394876528"
+}
