@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="PokeCard TCG"
-run/main_scene="uid://chbb8u83sqwsc"
+run/main_scene="uid://d3mfurun8hrsd"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
@@ -22,6 +22,7 @@ SignalManager="*res://Globals/SignalManager.gd"
 SoundManager="*res://Globals/SoundManager.gd"
 Global="*res://Globals/global.gd"
 BattleStateManager="*res://Globals/BattleStateManager.gd"
+InputManager="*res://Globals/InputManager.gd"
 
 [display]
 

@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://d3mfurun8hrsd"]
+
+[ext_resource type="PackedScene" uid="uid://cpp5h8v05w0ik" path="res://Scenes/UILayer.tscn" id="1_glv2v"]
+[ext_resource type="PackedScene" uid="uid://chbb8u83sqwsc" path="res://Scenes/BattleBoard.tscn" id="1_uu6xs"]
+
+[node name="Main" type="Node2D"]
+
+[node name="BattleBoard" parent="." instance=ExtResource("1_uu6xs")]
+
+[node name="UiLayer" parent="." instance=ExtResource("1_glv2v")]

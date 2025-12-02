@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://cpp5h8v05w0ik"]
+
+[ext_resource type="Script" uid="uid://cjrs5lr0bxanm" path="res://Scenes/UiLayer.gd" id="1_yrg8w"]
+[ext_resource type="PackedScene" uid="uid://dlfti3key888y" path="res://Scenes/AttackInterface.tscn" id="2_hwo6m"]
+
+[node name="UiLayer" type="CanvasLayer"]
+script = ExtResource("1_yrg8w")
+attack_interface_scene = ExtResource("2_hwo6m")

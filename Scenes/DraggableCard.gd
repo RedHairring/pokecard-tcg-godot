@@ -7,17 +7,17 @@ var is_inside_dropable = false
 var body_ref
 var offset: Vector2
 var initialPos: Vector2
-var card_data: Dictionary = {}
-var card_size: Vector2 = Vector2(100, 140)  # Default medium size
+var card: Dictionary = {}
+var card_size: Vector2 = Vector2(100, 140) # Default medium size
 
 
 func set_card_data(data: Dictionary):
-	card_data = data
+	card = data
 	_load_card_image()
 	_resize_card()
 	
 func _load_card_image():
-	var card_store_data = card_data.cardStoreData
+	var card_store_data = card.cardStoreData
 	var template_id = Global.get_template_id(card_store_data)
 	#print("TEMPLATE ID", template_id)
 	var image_path = "res://assets/BS/%s.png" % template_id
@@ -32,9 +32,9 @@ func _load_card_image():
 			print("[DraggableCard] Failed to load image: ", image_path)
 	
 func _resize_card():
-	card_size = Global.get_size(card_data.location.type)
+	card_size = Global.get_size(card.location.type)
 	# Get and apply the scale factor
-	var scale_factor = Global.get_scale_from_size(card_data.location.type)
+	var scale_factor = Global.get_scale_from_size(card.location.type)
 	sprite.scale = scale_factor
 
 	# Update collision shape to match new size
@@ -56,7 +56,7 @@ func _process(delta):
 			else:
 				tween.tween_property(self, 'global_position', initialPos, 0.2).set_ease(Tween.EASE_OUT)
 		
-
+		
 func _on_area_2d_mouse_entered() -> void:
 	if not Global.is_dragging:
 		draggable = true

@@ -1,15 +1,49 @@
+
+
+Make the public launch 
+something you'll be proud to show your friends
+
+GOAL^^^
+
+
 //START HERE
+
+click listener layer for closing attack interface
+^^
+
+
+
+DraggableCards should only be in the hand. 
+All others can just be Card
+  Refactor dropzone handlers to destroy the draggable card and 
+  instantiate a Card in the location
+
+When dragging a card from hand, render appropriate dropzones
+
+
+
+G̶e̶t̶ A̶t̶t̶a̶c̶k̶I̶n̶t̶e̶r̶f̶a̶c̶e̶ s̶h̶o̶w̶i̶n̶g̶ o̶n̶ a̶c̶t̶i̶v̶e̶ p̶o̶k̶e̶m̶o̶n̶ c̶l̶i̶c̶k̶
+
 
 a̶d̶d̶ h̶a̶n̶d̶ c̶a̶r̶d̶s̶
   a̶n̶d̶ d̶e̶c̶k̶ a̶n̶d̶ d̶i̶s̶c̶a̶r̶d̶ p̶i̶l̶e̶
-  Make new test state with cards in deck
+  M̶a̶k̶e̶ n̶e̶w̶ t̶e̶s̶t̶ s̶t̶a̶t̶e̶ w̶i̶t̶h̶ c̶a̶r̶d̶s̶ i̶n̶ d̶e̶c̶k̶
 
-AttackInterface
+C̶l̶i̶c̶k̶M̶a̶n̶a̶g̶e̶r̶
+  W̶h̶e̶n̶ a̶ c̶a̶r̶d̶ i̶s̶ c̶l̶i̶c̶k̶e̶d̶ o̶n̶,̶ j̶u̶s̶t̶ e̶m̶i̶t̶ a̶ c̶l̶i̶c̶k̶e̶d̶ o̶n̶ s̶i̶g̶n̶a̶l̶?̶
 
-ClickManager
-  When a card is clicked on, just emit a clicked on signal?
+
+A̶t̶t̶a̶c̶k̶I̶n̶t̶e̶r̶f̶a̶c̶e̶
+  P̶r̶o̶g̶r̶a̶m̶m̶a̶t̶i̶c̶a̶l̶l̶y̶ s̶h̶o̶w̶ m̶o̶v̶e̶s̶ b̶u̶t̶t̶o̶n̶s̶
+
+
+Finish AttackInterface 
+  Abilities, retreat, damage term, mana cost
+  fix text wrap
 
 EventLog
+
+
 
 
 Replicate tilt perspective

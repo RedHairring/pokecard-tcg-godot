@@ -1,7 +1,7 @@
 extends Node
 
 @export var card_scene: PackedScene
-
+@onready var UILayer = $"../UiLayer"
   # Position constants for card placement
 const PLAYER_ACTIVE_POS = Vector2(658, 420)
 const PLAYER_BENCH_Y = 570

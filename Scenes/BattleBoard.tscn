@@ -1,13 +1,13 @@
 [gd_scene load_steps=5 format=3 uid="uid://chbb8u83sqwsc"]
 
-[ext_resource type="Script" uid="uid://bwt7vfbtuidrx" path="res://BattleBoard.gd" id="1_bdrjq"]
+[ext_resource type="Script" uid="uid://bwt7vfbtuidrx" path="res://Scenes/BattleBoard.gd" id="1_bdrjq"]
 [ext_resource type="Texture2D" uid="uid://bti7lmrfwquov" path="res://assets/Background.png" id="2_2qpyp"]
+[ext_resource type="PackedScene" uid="uid://b66y7fan7njm0" path="res://Scenes/Card.tscn" id="2_mue2p"]
 [ext_resource type="PackedScene" uid="uid://74oy3sn83axs" path="res://Scenes/DropZone.tscn" id="3_8mi12"]
-[ext_resource type="PackedScene" uid="uid://b5k6p5k08hhp4" path="res://Scenes/DraggableCard.tscn" id="4_4ir0o"]
 
 [node name="BattleBoard" type="Node"]
 script = ExtResource("1_bdrjq")
-card_scene = ExtResource("4_4ir0o")
+card_scene = ExtResource("2_mue2p")
 
 [node name="Background" type="TextureRect" parent="."]
 anchors_preset = -1
